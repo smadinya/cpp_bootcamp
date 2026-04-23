@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# visual studio config files
+\.vs
+
+# project files
+*.vcxproj
+*.vcxproj.filters
+
+# build folder
+\build

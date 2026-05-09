@@ -1,7 +1,10 @@
 #include <iostream>
+#include <stdio.h>
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Day 01 - Pointers & References\n";
+    cout << "Day 01 - Pointers & References\n";
     return 0;
 }

@@ -43,6 +43,9 @@
 # visual studio config files
 \.vs
 
+# visual studio specific Files
+CppProperties.json
+
 # project files
 *.vcxproj
 *.vcxproj.filters
